@@ -1,0 +1,51 @@
+.weather-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-weight: 600;
+}
+
+.forecast {
+  border-radius: 30px;
+  padding: 20px;
+  margin: 5px;
+  width: 200px;
+  background: linear-gradient(
+    159deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(14, 39, 82, 0.6474964985994398) 36%,
+    rgba(18, 51, 82, 1) 100%,
+    rgba(133, 169, 176, 1) 100%
+  );
+  color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  margin-left: 42%;
+}
+
+label {
+  margin-left: 44%;
+}
+
+input {
+  padding: 4px;
+  margin-top: 1%;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 15%;
+}
+
+button {
+  padding: 5px 6px;
+  font-size: 13px;
+  background-color: #4a5764;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 44.7%;
+  border-radius: 15%;
+  font-weight: bold;
+}
