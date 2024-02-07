@@ -31,6 +31,7 @@ REACT_APP_API_KEY = 'paste_your_api_key_here'
 1. Clone the project.
 
 ```
+https://github.com/ayse-ozcan/weather-forecast-react-app.git
 ```
 2. Navigate to the project folder.
 
